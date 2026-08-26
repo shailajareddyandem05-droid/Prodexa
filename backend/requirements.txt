@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+firebase-admin==6.5.0
+groq>=0.15.0
+python-dotenv==1.0.1
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+duckduckgo-search>=7.0.0
+razorpay>=1.4.1
+markdown>=3.7.0
