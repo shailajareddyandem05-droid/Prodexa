@@ -202,6 +202,6 @@ Planned improvements include:
 
 ## 👨‍💻 Author
 
-Manikanta Puppala
+Andem Shailaja Reddy
 
 Built as a next-generation intelligent productivity platform integrating modern web technologies with AI-assisted workflow automation.
