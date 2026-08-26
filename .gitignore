@@ -1,0 +1,63 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# next.js
+frontend/.next/
+frontend/out/
+
+# production
+build/
+dist/
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+frontend/.env.local
+frontend/.env
+
+# vercel
+.vercel
+
+# firebase
+.firebase/
+frontend/.firebase/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+backend/venv/
+backend/.env
+
+# IDE
+.idea/
+.vscode/
+
+# secrets - never commit these
+*.json
+!frontend/package.json
+!frontend/package-lock.json
+!frontend/tsconfig.json
+!frontend/next.config.mjs
+!frontend/postcss.config.mjs
+!frontend/tailwind.config.ts
+!frontend/components.json
+!backend/requirements.txt
